@@ -1,0 +1,79 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMYQ24osRp3IgVZAPWIr0vj",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/cjr5929/SRA-LAB-1/blob/master/Untitled0.ipynb1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "5sBABlG1tuJz",
+        "colab_type": "text"
+      },
+      "source": [
+        "#NOAA State College Weather "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "1CFeomP9tylk",
+        "colab_type": "text"
+      },
+      "source": [
+        "This image will show the minimum temperature throughout the span of three years of 2017 to 2019. The graph that is going to be displayed will cover all of the information throughout the timeline of the minimum temperatures over the past years on a specific day. The day i chose was January 24th and this specific day gives a helpful showing of how cold it was on that day for the past three years in fahrenheit degrees. "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "BWQDsF4g17vK",
+        "colab_type": "text"
+      },
+      "source": [
+        "![alt text](https://raw.githubusercontent.com/cjr5929/SRA-LAB-1/master/Sra%20Lab/MS%20Paint%20_%20Microsoft%20Paint%20Online%20(1).png)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "MJ20pGhp4UVY",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "phWpOTSi2eGu",
+        "colab_type": "text"
+      },
+      "source": [
+        "The conclusion for this project was to begin showing a graph that had came together for the minimum temperature on a specific day throughout 2017 and 2019. They day i chose was January 24th and made a graph explaining the degrees in fahrenheit and also signifying what year went with what by its colors. By looking at the information provided in the weather document, in 2017 it was 32 degrees, in 2018 it was 31 degrees, and in 2019 it was 27 degrees. "
+      ]
+    }
+  ]
+}
